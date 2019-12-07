@@ -3,7 +3,7 @@ C language 2
 }
 
 void sick(){
-mat
+rag
 }
 
 
