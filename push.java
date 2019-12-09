@@ -5,5 +5,5 @@ C language 2
 void sick(){
 ron
 }
-
+Human
 
